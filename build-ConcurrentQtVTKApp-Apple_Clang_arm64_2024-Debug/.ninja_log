@@ -1,0 +1,27 @@
+# ninja log v5
+0	298	1706010749893755441	ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+299	2325	1706010751935718202	CMakeFiles/ConcurrentQtVTKApp.dir/mainwindow.cpp.o	5dacaced7e0454f5
+298	2085	1706010751694188983	CMakeFiles/ConcurrentQtVTKApp.dir/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp.o	fcd882e4db76ca34
+0	298	1706010749893755441	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+0	298	1706010749893755441	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+0	298	1706010749893755441	ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+298	2214	1706010751822160881	CMakeFiles/ConcurrentQtVTKApp.dir/main.cpp.o	5673dbbaa53bfd6c
+2326	2517	1706010752130058970	ConcurrentQtVTKApp.app/Contents/MacOS/ConcurrentQtVTKApp	9a06d6a3fad1adb0
+7	457	1706010918669045000	ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+7	457	1706010918669045000	ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+7	457	1706010918669045000	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+7	457	1706010918669045000	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+459	2361	1706010920581944359	CMakeFiles/ConcurrentQtVTKApp.dir/customqthread.cpp.o	74b4567ef29bba62
+458	3598	1706010921819618506	CMakeFiles/ConcurrentQtVTKApp.dir/main.cpp.o	a517d40d72a56202
+457	3648	1706010921869748458	CMakeFiles/ConcurrentQtVTKApp.dir/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp.o	7cb1c31219469da7
+24	107	1706011369807569159	ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+24	107	1706011369807569159	ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+24	107	1706011369807569159	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+24	107	1706011369807569159	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+8	153	1706011450141224828	ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+8	153	1706011450141224828	ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+8	153	1706011450141224828	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/timestamp	715a705fedff95eb
+8	153	1706011450141224828	/Users/StefanC/Desktop/dev/SANDBOX/ConcurrentQtVTKApp/build-ConcurrentQtVTKApp-Apple_Clang_arm64_2024-Debug/ConcurrentQtVTKApp_autogen/mocs_compilation.cpp	715a705fedff95eb
+155	3084	1706011453057954660	CMakeFiles/ConcurrentQtVTKApp.dir/thread.cpp.o	b1ab6a5993e9ba6a
+154	3261	1706011453235904193	CMakeFiles/ConcurrentQtVTKApp.dir/mainwindow.cpp.o	d310900e1eb21cb9
+3262	3495	1706011453476525966	ConcurrentQtVTKApp.app/Contents/MacOS/ConcurrentQtVTKApp	81291c56fc9cda27
